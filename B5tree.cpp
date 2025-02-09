@@ -157,8 +157,50 @@ public:
     }
     return 0;
 	}
-	
-	
+
+
+
+// output
+
+// 1. Create
+// 2. Display
+// 3. Exit
+// Enter your choice: 1
+// Enter the book name :
+// Tree
+// Enter the no. of chapter : 
+// 2
+// Enter the chapter name : 1
+// A     
+// Enter the no. of section : 
+// 1
+// Enter the name of section : 1-1
+// a1
+// Enter the no. of sub-section: 
+// 1
+// Enter the name of sub-section : 1-1-1
+// a11
+// Enter the chapter name : 2
+// B
+// Enter the no. of section : 
+// 1
+// Enter the name of section : 2-1
+// b1
+// Enter the no. of sub-section: 
+// 1
+// Enter the name of sub-section : 2-1-1
+// b11
+// 1. Create
+// 2. Display
+// 3. Exit
+// Enter your choice: 2
+//                           Book name :Tree
+//                Chapter name : 1 :A
+//      Name of section : 1-1 : a1
+// Name of sub-section : 1-1-1 a11
+//                Chapter name : 2 :B
+//      Name of section : 2-1 : b1
+// Name of sub-section : 2-1-1 b11
 	
 
 
